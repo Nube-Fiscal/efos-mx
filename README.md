@@ -2,7 +2,6 @@
 
 > Listado 69-B del SAT (EFOS) en JSON, actualizado diariamente y disponible gratis vía GitHub Pages.
 
-[![Update EFOS List](https://github.com/nubefiscal/efos-mx/actions/workflows/update-efos.yml/badge.svg)](https://github.com/nubefiscal/efos-mx/actions/workflows/update-efos.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
